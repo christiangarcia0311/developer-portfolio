@@ -14,7 +14,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <a href="/" className="text-2xl font-bold text-amber-500">cgdev.</a>
+            <a href="/" className="text-2xl font-bold text-amber-500">cggdev.</a>
           </div>
 
           {/* Desktop Menu */}
